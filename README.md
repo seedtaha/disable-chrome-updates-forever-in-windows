@@ -16,7 +16,7 @@ This repository contains a Windows batch script that helps you **disable Google 
 
 ## 🚀 How to Use
 
-1. **Download** the `.zip` foler from [HERE](https://github.com/seedtaha/disable-chrome-upadtes-forever-in-windows/releases)
+1. **Download** the `.zip` file from [HERE](https://github.com/seedtaha/disable-chrome-upadtes-forever-in-windows/releases)
 2. Extract it.
 3. Double-click the `.bat` file and allow to give **Administrator rights** when asks for.
 4. Wait a second.
