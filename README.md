@@ -16,10 +16,11 @@ This repository contains a Windows batch script that helps you **disable Google 
 
 ## 🚀 How to Use
 
-1. **Download** the `.bat` from [HERE](https://github.com/seedtaha/disable-chrome-upadtes-forever-in-windows/releases)
-2. Double-click the `.bat` file and allow to give **Administrator rights** when asks for.
-3. Wait a second.
-4. Done✅.
+1. **Download** the `.zip` foler from [HERE](https://github.com/seedtaha/disable-chrome-upadtes-forever-in-windows/releases)
+2. Extract it.
+3. Double-click the `.bat` file and allow to give **Administrator rights** when asks for.
+4. Wait a second.
+5. Done✅.
 
            <you can visit `chrome://settings/help` in Google Chrome so you can verify that the updates are disabled>
 
