@@ -4,7 +4,7 @@ This repository contains a Windows batch script that helps you **disable Google 
 
 ---
 
-## 🔧 What Does the Script Do?
+##  What Does the Script Do?
 
 - Automatically requests **Administrator privileges** (UAC prompt)
 - Silently deletes chrome update files (if present)
@@ -14,7 +14,7 @@ This repository contains a Windows batch script that helps you **disable Google 
 
 
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Download** the `.zip` file from [HERE](https://github.com/seedtaha/disable-chrome-upadtes-forever-in-windows/releases)
 2. Extract it.
@@ -26,7 +26,7 @@ This repository contains a Windows batch script that helps you **disable Google 
 
 ---
 
-## ✅ Tested On
+##  Tested On
 
 - Windows 10 (x64)
 - Windows 11 (x64)
@@ -34,18 +34,18 @@ This repository contains a Windows batch script that helps you **disable Google 
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This script is provided **as-is** for educational and administrative purposes. It may not work across all environments. Google Chrome may re-enable updates in future releases unless further blocked via registry or Group Policy.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 https://www.facebook.com/seed.103
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
